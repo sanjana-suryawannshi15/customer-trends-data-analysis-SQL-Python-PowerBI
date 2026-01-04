@@ -16,6 +16,7 @@ By integrating multiple tools and technologies, this project highlights practica
 *Translate analytical findings into clear insights and recommendations
 
 🧠 What This Project Demonstrates
+
 *End-to-end data analytics workflow
 *Strong foundation in Python, SQL, and Power BI
 *Ability to convert data into business insights
